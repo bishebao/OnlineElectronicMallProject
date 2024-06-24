@@ -1,0 +1,2 @@
+# OnlineElectronicMallProject
+ 一个基于JavaWeb的网上电子商城项目,这个项目可以熟悉MVC开发模式，方便以后学习SSM等技术
